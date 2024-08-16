@@ -1,0 +1,4 @@
+001,Momoria Ram,5,20.0
+002,Discos HDD 500GB,20,15.0
+003,Discos SSD 500GB,12,30.0
+004,Monitor 19inch,50,105.0
